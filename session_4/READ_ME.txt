@@ -1,7 +1,3 @@
-Here's the full `README.txt` without the `###` and `***`:
-
----
-
 # README.txt
 
 Project Overview  
